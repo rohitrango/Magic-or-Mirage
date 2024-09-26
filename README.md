@@ -1,4 +1,4 @@
-## Code accompanying the paper `Deep Learning in Medical Image Registration: Magic or Mirage?`
+## [NeurIPS 2024] Deep Learning in Medical Image Registration: Magic or Mirage?
 
 * Registration scripts for all classical methods considered in the paper are currently listed.
 
